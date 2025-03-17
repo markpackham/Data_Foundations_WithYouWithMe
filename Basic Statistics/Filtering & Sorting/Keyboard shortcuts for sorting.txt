@@ -1,0 +1,15 @@
+Shortcut to apply Filter
+CTRL SHIFT L
+
+Shortcut to Copy
+CTRL C
+
+
+Shortcut to Paste
+CTRL V
+
+
+CTRL SHIFT 
+DOWN arrow
+
+
