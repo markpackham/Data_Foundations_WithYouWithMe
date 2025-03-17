@@ -1,0 +1,22 @@
+Data analysis entails cleaning, transforming, and analyzing raw data in order to come to informed conclusions, gain insight on correlations or trends, or make predictions based on historical data as well as support decision making.
+
+The data analysis process involves 4 stages. Although each stage is crucial to proper analysis, they are not linear but interchangeable throughout the process. 
+
+The DEFINE stage is where we find our questions. What are we looking for from this data?
+It is necessary to define our questions, to clarify what we are asking or looking for. 
+It helps us filter if the information we discover through our analysis is relevant and important.
+
+
+The TRANSFORM stage consists of formatting and validating your data. 
+At times, you may need to change the structure, filter, merge or even change units of measurement to make the data easier to analyze. 
+This stage also includes cleaning your data by identifying errors or missing values.
+
+
+In the ANALYSE stage, we look to discover answers from our data. 
+Using various tools we are able to extract insights, notice patterns, and relationships within our data.
+This is where we interpret the data to derive evidence based conclusions.
+
+
+Communicate is an important but often overlooked step in the data analysis process. 
+With the use of graphs, charts, and other visualizations, the analyst ties their findings to the original query and presents a solution. 
+Essentially, it's the art of data storytelling.
