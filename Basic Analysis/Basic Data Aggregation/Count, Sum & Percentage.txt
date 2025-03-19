@@ -1,0 +1,23 @@
+COUNT
+
+The count function returns the count of values in selected cells.
+
+=Count gives the count of numerical values in the selected cells. It will ignore text values and blank cells.
+
+=CountA will count the number of text values of selected cells.
+
+=CountBlank will count the number of empty cells of selected cells.
+
+
+SUM
+
+The sum function will add the numbers in a selection.
+
+=Sum gives you the sum total by adding all numerical values. Just like the count function, it will ignore text values and blank cells.
+
+
+PERCENTAGE
+
+A percentage is defined as a proportion in relation to the whole.
+
+We calculate percentage by  =first number / second number and choosing the % button.
