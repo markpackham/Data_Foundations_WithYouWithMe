@@ -1,0 +1,11 @@
+Pie Charts
+Although popular, Pie Charts are not a great way of representing data.
+
+It is difficult to 'read' angles so when data is represented as angled slices of a pie, we are often unable to properly perceive how much each proportion represents.
+
+
+
+3D Charts
+3D charts distort the image, making some images look larger than they should. 
+
+This may lead to a visual misrepresentation of your data.

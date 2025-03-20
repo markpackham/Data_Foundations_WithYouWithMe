@@ -1,0 +1,57 @@
+Graph Components
+
+Y AXIS
+The Y Axis is the vertical axis of a graph.
+
+Axes are the scales against which your data is plotted.
+
+Generally, the Y Axis is used to plot the dependent variable.
+
+In this example the Y Axis is a dependent variable, meaning the sales amount will depend on the region in which it occurs.
+
+Each Axis has a title to describe the variable. In this example, the title is SALES ($).
+
+
+DATA POINTS
+Inside the axis is where you will find individual items of data called data points. 
+
+For example, sales in the South region would be considered a data point.
+
+
+DATA LABELS
+Data Labels display the value of the Y Axis for each column. 
+
+Data labels are not necessary to your graph and should be used sparingly to avoid clutter.
+
+
+X AXIS
+The X Axis is the horizontal axis of a graph.
+
+Axes are the scales against which your data is plotted.
+
+Generally, the X Axis is used to plot the independent variable.
+
+Along the X Axis in this example, we have the region which does not change as a result of sales, making it an independent variable,
+
+Each Axis has a title to describe the variable. In this example, the title is REGION.
+
+
+CHART TITLE
+It is important to always name your graph with a chart title, especially when creating multiple visualisations.
+
+A common method of naming graphs is to input the Y axis followed by the X axis, as seen here, Sales by Region.
+
+
+DATA SERIES
+The data series is a collection of related data points.
+
+In this example, all of the regions would be considered a data series.
+
+
+
+LEGEND
+The Legend explains the color of our data series.
+
+In this example, the legend is unnecessary as we only have one colour in our data series. 
+
+The legend would be more helpful in a stacked column where different colours represent different series.
