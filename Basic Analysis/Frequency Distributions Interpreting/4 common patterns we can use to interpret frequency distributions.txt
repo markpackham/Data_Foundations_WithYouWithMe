@@ -1,0 +1,76 @@
+4 common patterns we can use to interpret frequency distributions
+
+
+Normal Distribution
+–
+A Normal Distribution is also called a Symmetrical Distribution because frequencies are symmetrical on either side of a central peak.
+
+If we were to draw a horizontal line in the middle of the distribution, it would produce the same values on either side of the peak.
+
+Because these values are evenly distributed, the mean, median and, mode are centrally located, sitting one on top of the other.
+
+In a normal distribution, the mean = the median = the mode.
+
+It is rare to see a perfectly symmetrical distribution. An example of a symmetrical frequency is the probabilities in a coin toss. There are only 2 options (heads or tails) and the probability of falling on either side is always 50%. 
+
+Interpretation:
+
+Normal distributions demonstrate that our values are evenly distributed and that, both the median and the mean are accurate measures of central tendency.
+Standard deviation can be used to quickly calculate the relative significance of the values in our data set. (Std deviation will be covered in the next  course Data Analytics with Excel)
+
+
+
+Left-Skewed Distribution
+–
+A Left-Skewed Distribution is also called Negatively Skewed Distribution. 
+
+The mean and the median sit to the left of the peak where most values occur.  In other words, the mean and the median are skewed to the left or negatively skewed.
+
+As we have learned in previous lessons, the mean is more susceptible to outliers and therefore, will sit even further to the left than the median.
+
+The downward-sloping section to the left of the peak is called the tail.
+
+In a left-skewed distribution, the mean < the median < the mode.
+
+A real-life example of a left-skewed distribution is the age of people dying of natural causes. More people pass away from natural causes at a later stage in life than in the early stages.
+
+Interpretation:
+
+Left-skewed distributions indicate that outliers of smaller value (to the left) may exist. This should be factored into our analysis.
+We are led to use the median rather than the mean as a measure of central tendency.
+In this case, it is better to use quartiles or percentiles, rather than std deviation, to measure the relative significance of individual values.
+
+
+
+Right-Skewed Distribution
+–
+A Right-Skewed Distribution is also called Positively Skewed Distribution. 
+
+The mean and the median sit to the right of the peak where most values occur.  In other words, the mean and the median are skewed to the right or positively skewed.
+
+As the mean is more susceptible to outliers, it will sit even further to the right than the median.
+
+In a right-skewed distribution, the mean > the median >the mode.
+
+Most populations' income distributions are an example of a right-skewed distribution as most of the people fall under the category of low to medium income while a much smaller percentage falls under the high income earning group.
+
+Interpretation:
+
+Right-skewed distributions indicate that outliers of larger value (to the right) may exist. This should be factored into our analysis.
+The median rather than the mean will be a more reliable measure of central tendency.
+Just like the left-skewed distribution, it is better to use quartiles or percentiles, rather than std deviation, to measure the relative significance of individual values.
+
+
+
+Bimodal Distribution
+–
+The Bimodal Distribution has 2 peaks, with values distributed on either side of the peaks.
+
+The mean and the median sit between the peaks with modes at the top of each peak.
+
+In a bimodal distribution, mode 1 < the median & mean >  mode 2.
+
+Interpretation:
+
+Neither the median nor the mode is an accurate measure of central tendency.
+In order to use descriptive statistics to analyse this data, we would first need to segment our values by splitting them into two groups or more.
